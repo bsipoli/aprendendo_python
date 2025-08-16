@@ -1,0 +1,1 @@
+print("Meu nome é Bruno Duarte Sipoli, tenho 38 anos e trabalho com tecnologia no ITAÚ. Faço parte da comunidade Cloud, da RT Soluções Cloud Compute e Database e da squad de Cloud Compute Products. Pretendo ate o final do ano ser efetivado como Júnior na minha área")
